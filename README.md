@@ -8,3 +8,5 @@ Of course, many elements are to be taken into account to carry out this project 
 
 The csv files represent the different months from the 2021 year. They are used as pattern in which the code will retrieve all other months over several years that have the same pattern. 
 
+Finally, as the objective of this courses was optimisation and performance, CPU time executions are reported for every month of a year (the csv files).
+
